@@ -1,0 +1,24 @@
+{
+  "name": "teste-deploy-ecs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leuzera/teste-deploy-ecs.git"
+  },
+  "author": "Leonardo Fleury <eu@leonardofleury.com.br>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/leuzera/teste-deploy-ecs/issues"
+  },
+  "homepage": "https://github.com/leuzera/teste-deploy-ecs#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
